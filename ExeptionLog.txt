@@ -1,0 +1,10 @@
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru
+java.net.UnknownHostException: img-1.photosight.ru

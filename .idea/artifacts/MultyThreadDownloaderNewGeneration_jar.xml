@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MultyThreadDownloaderNewGeneration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultyThreadDownloaderNewGeneration_jar</output-path>
+    <root id="archive" name="MultyThreadDownloaderNewGeneration.jar">
+      <element id="module-output" name="MultyThreadDownloaderNewGeneration" />
+    </root>
+  </artifact>
+</component>
